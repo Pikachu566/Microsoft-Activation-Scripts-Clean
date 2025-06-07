@@ -1,6 +1,6 @@
 
 # MAS CleanFork Edition
-**by FIQ [@anonymous_grayhat]**
+**Rebrand by [@anonymous_grayhat]**
 
 ---
 
@@ -20,7 +20,7 @@ All obfuscated code, malicious behavior, and unsafe external links have been rem
 - No obfuscated URLs or hidden code
 - No malware, payloads, or trojan behavior
 - Works without disabling antivirus (Windows Defender safe)
-- Clean UI branding with `PIKACHU GAMING ⚡`
+- Clean UI branding with `@anonymous_grayhat`
 
 ---
 
@@ -44,9 +44,10 @@ All obfuscated code, malicious behavior, and unsafe external links have been rem
 ## 🙏 Credits
 
 - **Original Project**: [massgrave.dev](https://massgrave.dev)
-- **CleanFork Mod**: FIQ (Pikachu Gaming ⚡)
+- **CleanFork Mod**: (@anonymous_grayhat)
 - **Telegram**: [@anonymous_grayhat](https://t.me/anonymous_grayhat)
-- **Assistant**: Pikah (AI support & scripting review)
+- **Assistant**: (AI support & scripting review)
+- **Original Script** : (https://github.com/massgravel)
 
 ---
 
