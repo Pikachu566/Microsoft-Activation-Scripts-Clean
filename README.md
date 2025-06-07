@@ -38,7 +38,8 @@ All obfuscated code, malicious behavior, and unsafe external links have been rem
 ---
 
 ## 🙏 Credits
-- **Original Project:** [massgrave.dev](https://github.com/massgravel)
+- **Original Project Github:** [massgrave.dev](https://github.com/massgravel)
+- **Original Project**: [massgrave.dev](https://massgrave.dev)
 - **CleanFork Mod:** `@anonymous_grayhat`  
 - **Telegram:** `@anonymous_grayhat`  
 - **Assistant:** AI-based scripting & review
